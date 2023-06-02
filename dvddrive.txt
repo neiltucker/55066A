@@ -1,0 +1,6 @@
+select volume 0
+remove noerr
+assign letter=G noerr
+select volume 1
+remove noerr
+assign letter=H noerr

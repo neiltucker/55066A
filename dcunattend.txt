@@ -1,0 +1,13 @@
+[DCINSTALL] 
+InstallDNS=yes
+NewDomain=forest
+NewDomainDNSName=Contoso.com
+DomainNetBiosName=CONTOSO
+ReplicaOrNewDomain=domain
+ForestLevel=4
+DomainLevel=4
+DatabasePath=%systemroot%\NTDS 
+LogPath=%systemroot%\LOGS 
+RebootOnCompletion=yes
+SYSVOLPath=%systemroot%\SYSVOL 
+SafeModeAdminPassword=Pa$$w0rd

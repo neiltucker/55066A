@@ -1,0 +1,2 @@
+If ((Get-PSSnapin -Registered *SharePoint*)) {reg import D:\Labfiles\run7.reg; cls; echo "*****     SharePoint Server 2013 has been successfully installed.     *****"; echo "*****     The Database & Farm components will be configured after a reboot.      *****"; Start-Sleep 5}
+Else {reg import D:\Labfiles\run6.reg; cls; echo "*****     SharePoint 2013 was not installed correctly.     *****"; echo "*****     The setup process will be run again.     *****"; Start-Sleep 5} 

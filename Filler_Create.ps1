@@ -1,0 +1,10 @@
+fsutil file createnew c:\temp\filler1.file 10000000000
+fsutil file createnew c:\temp\filler2.file 10000000000
+fsutil file createnew c:\temp\filler3.file 10000000000
+fsutil file createnew c:\temp\filler4.file 10000000000
+fsutil file createnew c:\temp\filler5.file 10000000000
+fsutil file createnew c:\temp\filler6.file 10000000000
+fsutil file createnew c:\temp\filler7.file 10000000000
+fsutil file createnew c:\temp\filler8.file 10000000000
+fsutil file createnew c:\temp\filler9.file 10000000000
+fsutil file createnew c:\temp\filler10.file 10000000000

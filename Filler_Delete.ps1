@@ -1,0 +1,1 @@
+Remove-Item C:\Temp\filler*.file -Force

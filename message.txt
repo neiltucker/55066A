@@ -1,0 +1,5 @@
+to:administrator@nwtraders.com
+from:admin1@contoso.com
+subject:Test SharePoint SMTP Forwarder
+
+Testing SharePoint SMTP Forwarder.

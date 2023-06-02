@@ -1,0 +1,1 @@
+UnInstall-WindowsFeature Server-Gui-Shell -Restart

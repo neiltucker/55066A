@@ -1,0 +1,74 @@
+dn: OU=Classroom,DC=Contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: organizationalUnit
+ou: Classroom
+distinguishedName: OU=Classroom,DC=Contoso,DC=com
+instanceType: 4
+whenCreated: 20091204210940.0Z
+whenChanged: 20091204211547.0Z
+uSNCreated: 16417
+uSNChanged: 16595
+name: Classroom
+objectCategory: 
+ CN=Organizational-Unit,CN=Schema,CN=Configuration,DC=Contoso,DC=com
+dSCorePropagationData: 20091204211548.0Z
+dSCorePropagationData: 20091204210955.0Z
+dSCorePropagationData: 20091204210942.0Z
+dSCorePropagationData: 20091204210941.0Z
+dSCorePropagationData: 16010101181216.0Z
+
+dn: OU=Contractors,OU=Classroom,DC=Contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: organizationalUnit
+ou: Contractors
+distinguishedName: OU=Contractors,OU=Classroom,DC=Contoso,DC=com
+instanceType: 4
+whenCreated: 20091204210954.0Z
+whenChanged: 20091204210954.0Z
+uSNCreated: 16428
+uSNChanged: 16429
+name: Contractors
+objectCategory: 
+ CN=Organizational-Unit,CN=Schema,CN=Configuration,DC=Contoso,DC=com
+dSCorePropagationData: 20091204211548.0Z
+dSCorePropagationData: 20091204210955.0Z
+dSCorePropagationData: 20091204210954.0Z
+dSCorePropagationData: 16010101000001.0Z
+
+dn: OU=Users,OU=Classroom,DC=Contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: organizationalUnit
+ou: Users
+distinguishedName: OU=Users,OU=Classroom,DC=Contoso,DC=com
+instanceType: 4
+whenCreated: 20091204211004.0Z
+whenChanged: 20091204211004.0Z
+uSNCreated: 16431
+uSNChanged: 16432
+name: Users
+objectCategory: 
+ CN=Organizational-Unit,CN=Schema,CN=Configuration,DC=Contoso,DC=com
+dSCorePropagationData: 20091204211548.0Z
+dSCorePropagationData: 20091204211004.0Z
+dSCorePropagationData: 16010101000001.0Z
+
+dn: OU=Computers,OU=Classroom,DC=Contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: organizationalUnit
+ou: Computers
+distinguishedName: OU=Computers,OU=Classroom,DC=Contoso,DC=com
+instanceType: 4
+whenCreated: 20091204211018.0Z
+whenChanged: 20091204211018.0Z
+uSNCreated: 16433
+uSNChanged: 16434
+name: Computers
+objectCategory: 
+ CN=Organizational-Unit,CN=Schema,CN=Configuration,DC=Contoso,DC=com
+dSCorePropagationData: 20091204211548.0Z
+dSCorePropagationData: 20091204211018.0Z
+dSCorePropagationData: 16010101000001.0Z
