@@ -1,5 +1,5 @@
 # 55066A PowerShell for SharePoint Administrators
-Courseware Access:  https://www.softwaretutorialservices.com/course/55066A
+Courseware Access:  https://www.softwaretutorialservices.com/course/55066a
 
 This one-day instructor-led course provides students with the knowledge and skills needed to use PowerShell to administer SharePoint Servers. Students will learn how to manage day-to-day and automated tasks carried out by SharePoint Administrators. With the included optional labs, the course can also be taught in two-days. 
 
